@@ -69,7 +69,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-### CREDIT
-All the codes to build this app are not mine.
-These codes belongs to developer 'Simo Edwin'. I keep these codes here for easy access to them.
-The link to the Simo Edwin's github: [https://github.com/developedbyed](https://github.com/developedbyed)
